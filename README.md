@@ -33,7 +33,7 @@ This project implements a basic authentication system using Laravel, featuring:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-auth-app.git
+git clone https://github.com/gaurav-21609/auth_laravel.git
 cd laravel-auth-app
 ```
 
